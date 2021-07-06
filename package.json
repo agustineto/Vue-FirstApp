@@ -1,5 +1,5 @@
 {
-  "name": "vue-app",
+  "name": "c",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,5 +14,9 @@
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC"
 }
